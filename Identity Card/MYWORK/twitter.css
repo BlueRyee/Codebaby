@@ -1,0 +1,41 @@
+.mother{
+    height: 400px;
+    width: 800px;
+    background-color: gray;
+}
+.blue{
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+    float: left;
+    background-image: url("blue\ paint.jpg"); 
+    
+}
+.white{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: right;
+    
+}
+img{
+    width: 200px;
+    height: 300px;
+    padding: 50px;
+    
+    
+}
+.content{
+    padding-left: 20px;
+    padding-top: 1px;
+}
+.content button{
+    border: grey 1px solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+.content button img{
+    width: 15px;
+    height: 15px;
+    padding: 1px;
+}
